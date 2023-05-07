@@ -14,4 +14,4 @@ java 8
 gradle 7.5.1
 
 # renovate: datasource=golang-version
-golang 1.19.4
+golang 1.20.4
