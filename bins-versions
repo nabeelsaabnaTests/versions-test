@@ -2,7 +2,7 @@
 RUN install-tool node v18.10.0
 
 # renovate: datasource=npm versioning=npm
-npm 8.1.0
+npm 9.6.6
 
 # renovate: datasource=npm versioning=npm
 yarn 1.22.16
