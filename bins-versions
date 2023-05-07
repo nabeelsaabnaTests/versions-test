@@ -1,0 +1,17 @@
+# renovate: datasource=node
+node v16.10.0
+
+# renovate: datasource=npm versioning=npm
+npm 8.1.0
+
+# renovate: datasource=npm versioning=npm
+yarn 1.22.16
+
+# renovate: datasource=adoptium-java
+java 8
+
+# renovate: datasource=gradle-version versioning=gradle
+gradle 7.5.1
+
+# renovate: datasource=golang-version
+golang 1.19.4
