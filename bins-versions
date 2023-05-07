@@ -1,5 +1,5 @@
 # renovate: datasource=node
-RUN install-tool node v18.16.0
+RUN install-tool node v18.10.0
 
 # renovate: datasource=npm versioning=npm
 npm 8.1.0
